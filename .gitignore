@@ -1,0 +1,9 @@
+.idea/
+build/
+game/*.exe
+game/*.manifest
+game/*.pdb
+game/*.ilk
+game/Data/
+game/Assets.dat
+game/gamecontrollerdb.txt

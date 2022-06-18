@@ -1,0 +1,9 @@
+[submodule "libs/SDL"]
+	path = libs/SDL
+	url = https://github.com/libsdl-org/SDL
+[submodule "libs/SDL_image"]
+	path = libs/SDL_image
+	url = https://github.com/libsdl-org/SDL_image
+[submodule "libs/zlib"]
+	path = libs/zlib
+	url = https://github.com/madler/zlib
